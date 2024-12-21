@@ -51,6 +51,6 @@ body{
     width: 100%;
     object-fit: cover;
 }
-/* #storiyan::-webkit-scrollbar{
+#storiyan::-webkit-scrollbar{
     display: none;
-} */
+}
